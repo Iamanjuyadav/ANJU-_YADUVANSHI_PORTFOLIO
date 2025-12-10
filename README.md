@@ -56,7 +56,7 @@ Portfolio/
 (Add your screenshots here for a better preview)
 
 ```
-![Preview](.preview.png)
+![Preview](/preview.png)
 ```
 
 ---
