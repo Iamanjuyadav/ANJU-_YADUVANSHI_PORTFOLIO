@@ -4,7 +4,6 @@
 
 This portfolio highlights my work, technical skills, and achievements in web development.  
 Designed with a focus on clean UI, smooth animations, and a user-friendly layout — it represents my identity as a modern developer.  
-It also serves as a digital resume for recruiters, clients, and collaborators.
 
 ---
 
