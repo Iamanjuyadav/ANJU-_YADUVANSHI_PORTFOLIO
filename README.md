@@ -53,10 +53,9 @@ Portfolio/
 
 ## 📸 Screenshots
 
-(Add your screenshots here for a better preview)
-
 ```
-![Preview](/preview.png)
+![Preview](/preview_1.png)
+![Preview](/preview_2.png)
 ```
 
 ---
