@@ -54,12 +54,9 @@ Portfolio/
 ## 📸 Screenshots
 
 ```
-![Preview](/preview_1.png)
-![Preview](/preview_2.png)
+![Preview](/preview_1.png)![Preview](/preview_2.png)
+
 ```
-<p align="center">
-  <img src="/preview_1.png" width="500px" alt="Portfolio Preview">
-</p>
 
 
 ---
